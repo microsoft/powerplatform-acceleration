@@ -1,14 +1,6 @@
-# Project
+# Welcome to Power Platform Acceleration Examples
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This project contains examples, samples and write ups to help self-service education to accelerate development and adoption of power platform including Canvas Apps, Model Apps and Dataverse, Power Automate, Connectors, and more.
 
 ## Contributing
 
