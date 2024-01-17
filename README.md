@@ -2,6 +2,13 @@
 
 This project contains examples, samples and write ups to help self-service education to accelerate development and adoption of power platform including Canvas Apps, Model Apps and Dataverse, Power Automate, Connectors, and more.
 
+> IMPORTANT <br>
+> These samples are not necessarily production-ready solutions and should be used at own risk and with due diligence. They are intended for learning and accelerated development. Best practice would be to install the unmanaged solutions into your dev environment(s) and adjust accordingly for your needs before deploying your own managed solution into upper environments.
+
+**Sample Tools**
+* [Developing Responsive Canvas Apps](/ResponsiveCanvas.md)
+* [Force Sync Entra SG Users into DV Environment](/Force%20Sync%20Entra%20SG%20Users%20into%20DV%20Environment.md)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
